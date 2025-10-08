@@ -1,0 +1,8 @@
+Audio Demo File
+This represents a demo audio track that would play:
+- Bike safety instructions
+- Rental guidelines
+- Maintenance tips
+- Environmental benefits of biking
+
+For web compatibility, this demo simulates audio playback.

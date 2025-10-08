@@ -1,0 +1,6 @@
+This is a placeholder for font files.
+Add your font files here:
+- Roboto-Regular.ttf
+- Roboto-Bold.ttf
+- Poppins-Regular.ttf
+- Poppins-Bold.ttf

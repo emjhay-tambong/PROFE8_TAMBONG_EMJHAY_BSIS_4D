@@ -1,0 +1,8 @@
+Demo Bike Video File
+This would be a bike demonstration video showing:
+- Bike features and specifications
+- How to properly use the bike
+- Safety instructions
+- Maintenance tips
+
+For demo purposes, this represents the video file that would be used in the video player.
