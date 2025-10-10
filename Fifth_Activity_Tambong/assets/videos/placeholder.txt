@@ -1,3 +1,0 @@
-This is a placeholder for videos.
-Add your video files here:
-- sample_video.mp4
