@@ -1,4 +1,0 @@
-This is a placeholder for audio files.
-Add your audio files here:
-- notification.mp3
-- click.mp3
