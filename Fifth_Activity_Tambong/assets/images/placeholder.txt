@@ -1,9 +1,0 @@
-This is a placeholder for images.
-Add your image files here:
-- bike1.jpg
-- bike2.jpg
-- bike3.jpg
-- profile.jpg
-- gallery1.jpg
-- gallery2.jpg
-- gallery3.jpg
